@@ -9,7 +9,7 @@
     font-size: 25;
     margin: 2;
     cursor: pointer;
-    background:  #ff8200;
+    background:  #cc9c17;
     color: white;
     font-family: 'Cutive Mono', monospace;
     border-radius: 10%;
@@ -29,7 +29,7 @@
 .labelText {
     
     width: 217;
-    margin: 0;
+    margin: 0x;
     font-size: 20;
     color: white;
     font-family: 'Cutive Mono', monospace
