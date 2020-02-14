@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.button {
+    width: 50;
+    height: 50;
+    font-size: 2.5;
+    margin: 2;
+    cursor: pointer;
+    background-color: pink;
+}
+
+.textview {
+    width: 217;
+    margin: 5;
+    font-size: 25;
+    padding: 5;
+    color: white;
+}
+
+.main {
+    position: absolute;
+    top: 
+}
+
+.equal {
+}

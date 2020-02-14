@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.button {
+    width: 50;
+    height: 50;
+    font-size: 25;
+    margin: 2;
+    cursor: pointer;
+    background:  #cc9c17;
+    color: white;
+    font-family: 'Cutive Mono', monospace;
+    border-radius: 10%;
+
+}
+
+.textview {
+    width: 217;
+    margin: 5;
+    font-size: 25;
+    padding: 5;
+    color: #2b2d36;;
+    font-family: 'Cutive Mono', monospace;
+
+}
+
+.labelText {
+    align-items: center;
+}
+
+.main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.bg {
+    background: linear-gradient(to right, pink, purple);
+    height: 100%;
+}
+
+#zero {
+    width: 107;
+}
+
